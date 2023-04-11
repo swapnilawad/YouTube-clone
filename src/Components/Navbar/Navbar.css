@@ -1,0 +1,46 @@
+.Container_navbar{
+    border: 1px solid ;
+    display: flex;
+    height: calc(3.5rem -2px);
+    background-color: rgb(34, 34, 34);
+}
+.Burger_logo_navbar{
+    display: flex;
+    height: 3.3rem;
+}
+.burger{
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    justify-content: space-evenly;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    border: 1px solid transparent;
+    margin-left: 0.5rem;
+    margin-right: 0.7rem;
+    border-radius: 100%;
+}
+.burger p{
+    margin: 0.5px;
+    width: 1.2rem;
+    height: 0.1rem;
+    background-color: rgb(255, 255, 255);
+}
+.logo_div_Navbar{
+    display: flex;
+}
+.logo_title_Navbar{
+    margin: auto;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.logo_size{
+    width: 50px;
+    height:50px;
+}
