@@ -1,0 +1,41 @@
+.SearchBar_Container{
+margin: auto;
+flex-grow: 2;
+display: flex;
+height: 2rem;
+
+}
+.SearchBar_Container2{
+    margin: auto;
+
+}
+.Search_div{
+    display: flex;
+    margin: auto;
+    position: relative;
+    z-index: 91;
+}
+.iBox_SearchBar{
+    background-color: white;
+    width: 30rem;
+    border: 1px solid rgb(128, 128, 128,0.4b);
+    color: black;
+    font-size: large;
+    padding: 0.2rem;
+   height: 2rem;
+   padding-left: 2rem;
+
+}
+.searchIcon_SearchBar{
+
+    cursor: pointer;
+    padding: 0.75rem;
+    width: 2rem;
+    border-radius: 0.1rem;
+    background-color: rgb(43,43,43);
+    color: aliceblue;
+
+}
+.searchIcon_SearchBar:hover{
+    background-color: black;
+}

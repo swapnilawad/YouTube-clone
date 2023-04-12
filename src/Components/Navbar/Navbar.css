@@ -3,6 +3,7 @@
     display: flex;
     height: calc(3.5rem -2px);
     background-color: rgb(34, 34, 34);
+    justify-content: space-between;
 }
 .Burger_logo_navbar{
     display: flex;
@@ -41,6 +42,7 @@
 
 
 .logo_size{
+   
     width: 50px;
     height:50px;
 }
